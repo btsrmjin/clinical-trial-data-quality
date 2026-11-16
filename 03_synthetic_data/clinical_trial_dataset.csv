@@ -44,3 +44,8 @@ PT042,SITE02,2026-04-20,2026-04-22,Control,1971-08-09,54,Male,96.3,178.0,30.4,15
 PT043,SITE03,2026-04-23,2026-04-25,Intervention,1990-10-16,35,Female,60.8,159.0,24.0,118,75,6.6,116,Metformin,500 mg,No,98,Good,No,,,None
 PT044,SITE04,2026-04-25,2026-04-27,Control,1982-01-28,44,Female,88.9,164.0,33.1,143,90,8.7,184,Metformin,1000 mg,Yes,61,Poor,Yes,Dizziness,Moderate,Monitoring
 PT045,SITE01,2026-04-28,2026-04-30,Intervention,1996-06-03,29,Female,56.7,157.0,23.0,113,72,6.2,107,Metformin,500 mg,No,95,Good,No,,,None
+PT046,SITE02,2026-05-01,2026-05-03,Control,1978-09-14,47,Male,86.5,179.0,27.0,139,88,8.3,176,Metformin,1000 mg,No,84,Good,No,,,None
+PT047,SITE03,2026-05-03,2026-05-05,Intervention,1988-02-26,38,Female,68.1,161.0,26.3,121,77,6.8,125,Metformin,500 mg,No,94,Good,No,,,None
+PT048,SITE04,2026-05-06,2026-05-08,Control,1983-11-07,42,Female,79.8,160.0,31.2,146,92,8.5,179,Metformin,1000 mg,Yes,66,Poor,Yes,Nausea,Mild,Monitoring
+PT049,SITE01,2026-05-08,2026-05-10,Intervention,1975-04-17,51,Male,91.6,177.0,29.2,134,85,7.5,153,Metformin,500 mg,No,89,Good,No,,,None
+PT050,SITE02,2026-05-11,2026-05-13,Control,1993-08-23,32,Female,62.4,164.0,23.2,115,73,6.4,111,Metformin,500 mg,No,97,Good,No,,,None
