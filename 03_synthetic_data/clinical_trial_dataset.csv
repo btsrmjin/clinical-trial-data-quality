@@ -49,3 +49,8 @@ PT047,SITE03,2026-05-03,2026-05-05,Intervention,1988-02-26,38,Female,68.1,161.0,
 PT048,SITE04,2026-05-06,2026-05-08,Control,1983-11-07,42,Female,79.8,160.0,31.2,146,92,8.5,179,Metformin,1000 mg,Yes,66,Poor,Yes,Nausea,Mild,Monitoring
 PT049,SITE01,2026-05-08,2026-05-10,Intervention,1975-04-17,51,Male,91.6,177.0,29.2,134,85,7.5,153,Metformin,500 mg,No,89,Good,No,,,None
 PT050,SITE02,2026-05-11,2026-05-13,Control,1993-08-23,32,Female,62.4,164.0,23.2,115,73,6.4,111,Metformin,500 mg,No,97,Good,No,,,None
+PT051,SITE03,2026-05-15,2026-05-17,Intervention,1981-02-14,45,Female,73.5,160.0,28.7,128,81,7.1,132,Metformin,500 mg,No,91,Good,No,,,None
+PT052,SITE04,2026-05-17,2026-05-19,Control,1976-10-06,49,Male,94.2,180.0,29.1,148,93,8.8,188,Metformin,1000 mg,No,80,Good,No,,,None
+PT053,SITE01,2026-05-20,2026-05-22,Intervention,1992-04-25,34,Female,61.9,163.0,23.3,117,74,6.5,114,Metformin,500 mg,No,96,Good,No,,,None
+PT054,SITE02,2026-05-22,2026-05-24,Control,1985-12-18,40,Female,84.6,162.0,32.2,140,89,8.4,175,Metformin,1000 mg,Yes,63,Poor,Yes,Abdominal discomfort,Mild,Monitoring
+PT055,SITE03,2026-05-25,2026-05-27,Intervention,1979-07-02,46,Male,81.7,174.0,27.0,130,82,7.4,146,Metformin,500 mg,No,87,Good,No,,,None
