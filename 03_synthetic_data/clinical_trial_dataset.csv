@@ -29,3 +29,8 @@ PT027,SITE03,2026-03-12,2026-03-14,Intervention,1991-06-24,34,Female,62.8,164.0,
 PT028,SITE04,2026-03-15,2026-03-17,Control,1985-10-08,40,Female,75.9,159.0,30.0,133,85,7.9,161,Metformin,500 mg,Yes,69,Poor,Yes,Fatigue,Mild,Monitoring
 PT029,SITE01,2026-03-17,2026-03-19,Intervention,1973-05-30,52,Male,98.2,179.0,30.6,149,94,9.1,205,Metformin,1000 mg,No,81,Good,No,,,None
 PT030,SITE02,2026-03-20,2026-03-22,Control,1994-01-16,32,Female,58.7,161.0,22.6,112,72,6.2,105,Metformin,500 mg,No,97,Good,No,,,None
+PT031,SITE03,2026-03-23,2026-03-25,Intervention,1981-09-05,44,Female,71.2,157.0,28.9,123,79,7.0,134,Metformin,500 mg,No,90,Good,No,,,None
+PT032,SITE04,2026-03-25,2026-03-27,Control,1987-04-18,38,Male,85.6,174.0,28.3,137,86,8.4,177,Metformin,1000 mg,No,77,Moderate,No,,,None
+PT033,SITE01,2026-03-28,2026-03-30,Intervention,1995-11-12,30,Female,55.4,158.0,22.2,110,71,6.1,103,Metformin,500 mg,No,99,Good,No,,,None
+PT034,SITE02,2026-03-30,2026-04-01,Control,1974-06-27,51,Female,93.5,165.0,34.3,153,97,9.4,218,Metformin,1000 mg,Yes,58,Poor,Yes,Diarrhea,Moderate,Medication adjustment
+PT035,SITE03,2026-04-02,2026-04-04,Intervention,1989-02-03,37,Male,79.1,176.0,25.5,127,81,7.2,139,Metformin,500 mg,No,92,Good,No,,,None
