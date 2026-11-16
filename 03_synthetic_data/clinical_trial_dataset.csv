@@ -69,3 +69,8 @@ PT072,SITE03,2026-06-26,2026-06-28,Intervention,1991-03-05,35,Female,64.7,163.0,
 PT073,SITE04,2026-06-29,2026-07-01,Control,1986-11-21,39,Female,78.5,159.0,31.1,136,86,8.0,166,Metformin,1000 mg,Yes,65,Poor,Yes,Dizziness,Mild,Monitoring
 PT074,SITE01,2026-07-01,2026-07-03,Intervention,1974-02-17,52,Male,85.8,176.0,27.7,129,82,7.5,149,Metformin,500 mg,No,91,Good,No,,,None
 PT075,SITE02,2026-07-04,2026-07-06,Control,1993-10-09,32,Female,59.6,161.0,23.0,114,73,6.3,104,Metformin,500 mg,No,96,Good,No,,,None
+PT076,SITE03,2026-07-07,2026-07-09,Intervention,1980-04-08,46,Female,72.9,160.0,28.5,127,80,7.0,130,Metformin,500 mg,No,93,Good,No,,,None
+PT077,SITE04,2026-07-09,2026-07-11,Control,1978-07-26,47,Male,93.6,179.0,29.2,149,94,8.9,192,Metformin,1000 mg,No,82,Good,No,,,None
+PT078,SITE01,2026-07-12,2026-07-14,Intervention,1992-01-13,34,Female,63.8,164.0,23.7,116,74,6.5,113,Metformin,500 mg,No,98,Good,No,,,None
+PT079,SITE02,2026-07-14,2026-07-16,Control,1985-05-19,41,Female,86.7,162.0,33.0,142,89,8.4,177,Metformin,1000 mg,Yes,59,Poor,Yes,Stomach discomfort,Mild,Monitoring
+PT080,SITE03,2026-07-17,2026-07-19,Intervention,1990-09-30,35,Male,75.4,173.0,25.2,122,78,6.8,126,Metformin,500 mg,No,95,Good,No,,,None
